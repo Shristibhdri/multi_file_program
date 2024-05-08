@@ -1,0 +1,3 @@
+hello world, to filethis will append to the file
+ this will start a new line
+this was a one liner
